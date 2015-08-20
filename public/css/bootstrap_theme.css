@@ -1,0 +1,32 @@
+#pagetitle{
+	background-color: #29A3A3;
+	font-color:#FFFFFF;
+	font-family: "verdana";
+}	
+#btn1{
+	height:80px;
+	width:175px;
+	font-size:30px;
+	background-color:#B2B2B2;
+	cursor: pointer;
+}
+#howsmart{
+	font-size:20px;
+	color:#FFFFFF;
+}
+#pointsposs{
+	font-size: 20px;
+}
+#pointsscored{
+	font-size: 20px;	
+}
+#pagebg{
+	background-color: #66C2C2;
+}
+#divwell{
+	background-color: #B2B2B2;
+
+}
+#bottompg{
+	background-color: #29A3A3;
+}
